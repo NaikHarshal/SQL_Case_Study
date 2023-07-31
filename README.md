@@ -1,9 +1,9 @@
 # SQL_Case_Study
 Upgrad Case Study by
 
-Harshal Naik
-Shivendu Kumar
-Vishesh Divya
+- Harshal Naik
+- Shivendu Kumar
+- Vishesh Divya
 
 
 ## Movies Data Analysis
